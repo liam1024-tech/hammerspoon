@@ -47,3 +47,4 @@ Our intentions for Hammerspoon broadly fall into these categories:
  * Tighter integration between extensions
  * Smoother user experience
 
+
